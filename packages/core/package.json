@@ -1,0 +1,22 @@
+{
+  "name": "@cuizijian-cli-dev/core",
+  "version": "0.0.0",
+  "description": "cuizijian-cli-dev core",
+  "author": "cuizijian <1943530647@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "dependencies": {
+    "@cuizijian-cli-dev/utils": "^0.0.0"
+  },
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  }
+}

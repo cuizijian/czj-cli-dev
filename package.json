@@ -1,0 +1,20 @@
+{
+  "name": "czj-cli-dev",
+  "version": "1.0.0",
+  "description": "cuizijian cli dev",
+  "main": "index.js",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^8.0.2"
+  }
+}
