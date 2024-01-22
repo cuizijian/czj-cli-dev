@@ -1,6 +1,6 @@
 {
   "name": "@cuizijian-cli-dev/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "cuizijian-cli-dev core",
   "author": "cuizijian <1943530647@qq.com>",
   "homepage": "",
@@ -14,7 +14,7 @@
     "lib"
   ],
   "dependencies": {
-    "@cuizijian-cli-dev/utils": "^0.0.1"
+    "@cuizijian-cli-dev/utils": "^0.0.2"
   },
   "scripts": {
     "test": "node ./__tests__/core.test.js"
